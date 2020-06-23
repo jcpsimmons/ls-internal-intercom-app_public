@@ -1,5 +1,7 @@
 # Living Spaces Intercom App
 
+**This is the public-version of a private repo and may be one or more commits behind the production repository**
+
 ## First Clone?
 
 - run `npm install -y`
